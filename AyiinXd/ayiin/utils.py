@@ -58,8 +58,8 @@ async def autopilot():
     try:
         r = await bot(
             CreateChannelRequest(
-                title="K𝙰𝚉𝚄-U𝚂𝙴𝚁𝙱𝙾𝚃 Lᴏɢs",
-                about="» Group log Created by: Kazu Userbot\n\n» Support : @kazusupportgrp\n» Support: @Html12text",
+                title="𝙳𝚊𝚗-U𝚂𝙴𝚁𝙱𝙾𝚃 Lᴏɢs",
+                about="» Group log Created by: Kazu Userbot\n\n» Support : @musik_supportdan\n» Support: @Disney_storeDan",
                 megagroup=True,
             ),
         )
@@ -77,7 +77,7 @@ async def autopilot():
     channel = get_peer_id(chat)
     if isinstance(chat.photo, ChatPhotoEmpty):
         photo = await download_file(
-            "https://telegra.ph/file/f0383ed4de3a719e2eada.jpg", "photoyins.jpg"
+            "https://telegra.ph//file/69b941319d82de511ffe5.jpg", "photoyins.jpg"
         )
         ll = await bot.upload_file(photo)
         try:
@@ -135,7 +135,7 @@ async def autobot():
             sys.exit(1)
     filogo = random.choice(
           [
-              "https://telegra.ph/file/4a7e1523892f591dd7158.jpg",
+              "https://telegra.ph//file/69b941319d82de511ffe5.jpg",
               "AyiinXd/resources/logo.jpg",
           ]
     )
@@ -218,7 +218,7 @@ async def autobot():
         await bot.send_message(bf, f"@{username}")
         await asyncio.sleep(1)
         await bot.send_message(
-            bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @punyaionnibos ✨"
+            bf, f"✨ Owner ~ {who.first_name} ✨\n\n✨ Powered By ~ @mhmdwldnnnn ✨"
         )
         await bot.send_message(
             BOTLOG_CHATID,
