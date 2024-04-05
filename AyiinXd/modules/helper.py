@@ -22,13 +22,13 @@ CMD_HELP.update(
     {
         "helper": f"**Plugin : **`helper`\
         \n\n  »  **Perintah :** `{cmd}ihelp`\
-        \n  »  **Kegunaan : **Bantuan Untuk Kazu-Userbot.\
+        \n  »  **Kegunaan : **Bantuan Untuk Dan-Userbot.\
         \n\n  »  **Perintah :** `{cmd}listvar`\
         \n  »  **Kegunaan : **Melihat Daftar Vars.\
         \n\n  »  **Perintah :** `{cmd}repo`\
-        \n  »  **Kegunaan : **Melihat Repository Kazu-Userbot.\
+        \n  »  **Kegunaan : **Melihat Repository Dan-Userbot.\
         \n\n  »  **Perintah :** `{cmd}string`\
-        \n  »  **Kegunaan : **Link untuk mengambil String Kazu-Userbot.\
+        \n  »  **Kegunaan : **Link untuk mengambil String dan_stringbot.\
     "
     }
 )
