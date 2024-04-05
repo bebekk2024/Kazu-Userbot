@@ -1,11 +1,11 @@
-<h1 align="center"> ⚡ 𝙺𝙰𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃</h1>
+<h1 align="center"> ⚡ ᴅᴀɴ-𝚄𝚂𝙴𝚁𝙱𝙾𝚃</h1>
 
-<a href="https://github.com/ionmusic/Kazu-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/sip-Userbot/Nande-Telethon?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ionmusic/Kazu-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://github.com/ionmusic/Kazu-Userbot/graphs/commit-activity)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/ionmusic/Kazu-Userbot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/ionmusic/Kazu-Userbot?&logo=github)](https://github.com/ionmusic/Kazu-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/ionmusic/Kazu-Userbot?&logo=github)](https://github.com/ionmusic/Kazu-Userbot/stargazers)
+<a href="https://github.com/bebekk2024/Kazu-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/sip-Userbot/Nande-Telethon?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/bebekk2024/Kazu-Userbot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://github.com/bebekk2024/Kazu-Userbot/graphs/commit-activity)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/bebekk2024/Kazu-Userbot/dashboard)
+[![GitHub Forks](https://img.shields.io/github/forks/bebekk2024/Kazu-Userbot?&logo=github)](https://github.com/bebekk2024/Kazu-Userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/bebekk2024/Kazu-Userbot?&logo=github)](https://github.com/bebekk2024/Kazu-Userbot/stargazers)
 
 
 <p align="center">
@@ -37,7 +37,7 @@ Selamat bersenang-senang.
 <h4> Generate Session via Repl: </h4>    
 <p><a href="https://repl.it/@nandeestringbot/NandeString?lite=1&outputonly=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 <h4> Generate Session via Telegram Kazu String Bot: </h4>    
-<p><a href="https://t.me/kazu_stringbot"><img src="https://img.shields.io/badge/TG%20String%20Kazu%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/dan_stringbot"><img src="https://img.shields.io/badge/TG%20String%20Kazu%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -48,7 +48,7 @@ Selamat bersenang-senang.
 ### Tutorial Deploy di VPS
 
 
- • `git clone https://github.com/ionmusic/Kazu-Userbot`
+ • `git clone https://github.com/bebekk2024/Kazu-Userbot`
 
  • `cd Kazu-Userbot`
 
@@ -72,7 +72,7 @@ Selamat bersenang-senang.
 <summary><b>🔗 Deploy To Heroku</b></summary>
 <br>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ionmusic/Kazu-Userbot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/bebekk2024/Kazu-Userbot"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
@@ -87,7 +87,7 @@ Selamat bersenang-senang.
 
 ## Updates & Support
 
-Follow Channel [Kazu Session](https://t.me/Html12text) untuk info Update bot dan Gabung Group [Kazu Support](https://t.me/kazusupportgrp) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Kazu-Userbot.
+Follow Channel [Disney Store](https://t.me/Disney_storeDan) untuk info Update bot dan Gabung Group [Support Music](https://t.me/musik_supportdan) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Kazu-Userbot.
 
 #### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
