@@ -23,9 +23,9 @@ from AyiinXd.ayiin import ayiin_cmd, eod, eor
 from Stringyins import get_string
 
 GCAST_BLACKLIST = [
-    -1001675396283,  # AyiinXdSupport
+    -1001678973384,  # 𝐆𝐑𝐄𝐀𝐓 𝐱 𝐖𝐎𝐖99
     -1001473548283,  # SharingUserbot
-    -1001433238829,  # TedeSupport
+    -1002127258037,  # sᴜᴘᴘᴏʀᴛ ᴍᴜsɪᴄ
     -1001476936696,  # AnosSupport
     -1001327032795,  # UltroidSupport
     -1001294181499,  # UserBotIndo
