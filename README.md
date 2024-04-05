@@ -12,7 +12,7 @@
   <img src="https://telegra.ph//file/69b941319d82de511ffe5.jpg">
 </p>
 
-👩‍💻 𝙺𝙰𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+👩‍💻 𝙳𝙰𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
